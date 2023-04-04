@@ -1,6 +1,5 @@
 # votacion-spring-boot
-basic project with spring boot with angular of poll
-
+basic project with spring boot 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
